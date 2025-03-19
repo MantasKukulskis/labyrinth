@@ -5,41 +5,23 @@
 
 # Labyrinth
 
-_website for personal finance management_
+_design training_
 
 ## 🌟 About
 
 This website is designed for personal finance management. It allows users to track their income and expenses and generates monthly financial reports. This helps users better understand their financial situation and make informed decisions about spending and saving.
 
-Site published at: https://github.com/MantasKukulskis/Profit-and-loss
+Site published at: https://github.com/MantasKukulskis/labyrinth
 
 ## 🎯 Project features/goals
 
 - Github pages
-- big screen & mobile version
-- Automated reports – The system generates clear monthly reports with visualizations.
-- Income and expense tracking – Users can easily enter their income and expenses.
-- Category management – Expenses and income can be categorized.
-- Budget planning – Users can set monthly budgets and monitor their adherence.
-- Graphs and analysis – Data is presented in clear charts to help analyze financial habits.
-- Google Fonts
+- big screen
 - favicon
 - advanced CSS selectors
 - button: hover state
 - main nav: hover state
 - main nav: selected menu option
-
-## Purpose
-
-This tool is designed to help users better understand and manage their finances by providing clear and comprehensible insights into income and expenses.
-
-## Technologies
-
-- Frontend: HTML, CSS, JavaScript
-
-- Backend: Node.js
-
-- Database: Sql
 
 ## 🧰 Getting Started
 
@@ -77,10 +59,6 @@ Would like to run this project locally? Open terminal and follow these steps:
    ```sh
    npm run dev
    ```
-
-### Usage
-
-Simply log in to your account, add income and expenses, and the system will automatically generate reports.
 
 ## 🎅 Authors
 
